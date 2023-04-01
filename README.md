@@ -16,19 +16,23 @@
   </a> 
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
   </a>
+  &emsp; 
+  <a href="#" target="_blank"> 
+   <img width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </a>   
 </p>
 
 #
 ### Frontend Development
 <p align="center"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://www.w3.org/html/"" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   </a>   
   &emsp;
@@ -37,6 +41,18 @@
   </a> 
 </p>
 
+#
+### Backend Development
+<p align="center"> 
+  &emsp; 
+  <a href="#" target="_blank"> 
+   <img width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  </a> 
+</p>
 #
 ### Software & Tools
 <p align="center">
