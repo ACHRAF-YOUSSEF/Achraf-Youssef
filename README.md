@@ -100,8 +100,11 @@
   <a href="#"> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" /></a>
    &emsp;
   <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />        
-</a>
-
+ </a>
+&emsp;
+  <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
+ </a>          
+</p>
 #
 ### Operating Systems
 <p align="center">
@@ -110,7 +113,8 @@
   </a>
   &emsp;
   <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</a>
+   </a>
+</p>
 
 ----
 <details><summary><h3> 🔥 Streak Stats</h3></summary>	
