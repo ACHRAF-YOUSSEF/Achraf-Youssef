@@ -28,7 +28,7 @@
 ### Frontend Development
 <p align="center"> 
   &emsp; 
-  <a href="https://www.w3.org/html/"" target="_blank"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   </a>   
   &emsp;
@@ -53,6 +53,7 @@
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   </a> 
 </p>
+                                                                                                   
 #
 ### Software & Tools
 <p align="center">
