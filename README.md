@@ -102,3 +102,6 @@
   &emsp;
   <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </a>
+  &emsp;
+  <a href="#"><img width="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
+</a>
