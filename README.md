@@ -84,3 +84,7 @@
   </a>
   &emsp;
   <a href="#"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /></a>
+  &emsp;
+  <a href="#"> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" /></a>
+
+
