@@ -66,20 +66,19 @@
   &emsp;
     <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 </a>
+    &emsp;
+    <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/></a>
+    &emsp;
+    <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
+     &emsp;
+    <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+</a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" style="background-color: white;" /></a>
-    &emsp;
-    <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
-     &emsp;
-    <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-</a>
- 
 </p>
 
 #
