@@ -76,6 +76,9 @@
     <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white" /></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
+     &emsp;
+    <a href="#"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+</a>
  
 </p>
 
