@@ -104,3 +104,29 @@
   &emsp;
   <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </a>
+
+----
+<details><summary><h3> 🔥 Streak Stats</h3></summary>	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoJoDevAdventure&theme=tokyonight_duo" alt="JoJoDevAdventure" /></p>
+
+</details>
+  
+ ----
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+	
+<p align="center">
+
+![Achraf-Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achraf-Youssef&show_icons=true&theme=radical)
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+----
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+	
+[![Achraf-Youssef's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Achraf-Youssef&theme=github)](https://github.com/Achraf-Youssef/github-readme-activity-graph)
+ 
+</details>
