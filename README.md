@@ -61,6 +61,9 @@
 #
 ### Software & Tools
 <p align="center">
+&emsp;
+    <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+</a>
   &emsp;
     <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </a>
