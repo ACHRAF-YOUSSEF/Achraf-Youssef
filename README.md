@@ -92,6 +92,9 @@
   <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /></a>
   &emsp;
   <a href="#"> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" /></a>
+   &emsp;
+  <a href="#"><img width="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
+</a>
 
 #
 ### Operating Systems
@@ -101,7 +104,4 @@
   </a>
   &emsp;
   <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</a>
-  &emsp;
-  <a href="#"><img width="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
 </a>
