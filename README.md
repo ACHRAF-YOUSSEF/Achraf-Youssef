@@ -91,6 +91,9 @@
 #
 ### IDEs
 <p align="center">
+   &emsp;
+   <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  </a>    
   &emsp;
     <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   </a>
