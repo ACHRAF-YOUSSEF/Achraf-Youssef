@@ -22,6 +22,10 @@
    <a href="https://www.python.org" target="_blank">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </a> 
+&emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  </a> 
 </p>
 
 #
