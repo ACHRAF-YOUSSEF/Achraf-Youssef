@@ -16,7 +16,7 @@
   </a> 
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
+    <img width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
