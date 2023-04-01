@@ -61,9 +61,12 @@
 #
 ### Software & Tools
 <p align="center">
-&emsp;
+   &emsp;
+  <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+ </a>    
+  &emsp;
     <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-</a>
+ </a>
   &emsp;
     <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </a>
@@ -108,10 +111,12 @@
   <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
  </a>          
 </p>
+
 #
 ### Operating Systems
 <p align="center">
   &emsp;
+  <a href="#">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   </a>
   &emsp;
