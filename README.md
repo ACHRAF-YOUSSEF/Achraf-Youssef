@@ -108,7 +108,7 @@
 ----
 <details><summary><h3> 🔥 Streak Stats</h3></summary>	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoJoDevAdventure&theme=tokyonight_duo" alt="JoJoDevAdventure" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Achraf-Youssef&theme=tokyonight_duo" alt="Achraf-Youssef" /></p>
 
 </details>
   
@@ -127,6 +127,6 @@
 ----
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 	
-[![Achraf-Youssef's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Achraf-Youssef&theme=github)](https://github.com/Achraf-Youssef/github-readme-activity-graph)
+[![Achraf-Youssef's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Achraf-Youssef&theme=github)](https://github.com/anuraghazra/github-readme-activity-graph)
  
 </details>
