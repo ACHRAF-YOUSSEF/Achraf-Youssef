@@ -87,4 +87,12 @@
   &emsp;
   <a href="#"> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" /></a>
 
-
+#
+### Operating Systems
+<p align="center">
+  &emsp;
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  </a>
+  &emsp;
+  <a href="#"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</a>
