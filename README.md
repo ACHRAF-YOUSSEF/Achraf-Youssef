@@ -93,7 +93,7 @@
   &emsp;
   <a href="#"> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" /></a>
    &emsp;
-  <a href="#"><img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
+  <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />        
 </a>
 
 #
