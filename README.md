@@ -7,8 +7,6 @@
 - 🤓 Always learning new things.
 
 ---
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 ### Programming languages
 <p align="center"> 
@@ -80,8 +78,8 @@
   &emsp;
     <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </a>
-  &emsp;
-    <i class="devicon-github-original"></i>
+ &emsp;
+    <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 </a>
   &emsp;
     <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
