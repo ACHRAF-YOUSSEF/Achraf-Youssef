@@ -43,6 +43,10 @@
   <a href="#" target="_blank"> 
    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </a>  
+ &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  </a>
 </p>
 
 #
@@ -56,6 +60,10 @@
   <a href="#" target="_blank">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   </a> 
+ &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  </a>
 </p>
                                                                                                    
 #
