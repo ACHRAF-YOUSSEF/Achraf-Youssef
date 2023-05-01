@@ -70,6 +70,8 @@
 ### Software & Tools
 <p align="center">
    &emsp;
+  <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+   &emsp;
   <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
  </a>    
   &emsp;
