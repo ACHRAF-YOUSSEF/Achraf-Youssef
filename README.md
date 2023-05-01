@@ -7,6 +7,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achraf-youssef" alt="achraf-youssef" /></a> </p>
 
 - 🌱 I’m currently learning **python, java, c and dart programing languages.**
+- 👀 I’m interested in **game development.**
+- 🧑‍💻 I love using **Software** as a solution for every Problem.
+- 🧑‍🎓 I’m currently learning **Computer Science and Software Engineering.**
+- 🤓 Always learning new things.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
