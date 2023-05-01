@@ -79,7 +79,7 @@
     <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </a>
   &emsp;
-    <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <i class="devicon-github-original"></i>
 </a>
   &emsp;
     <a href="#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
