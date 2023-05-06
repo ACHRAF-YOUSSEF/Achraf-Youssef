@@ -17,11 +17,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/achraf-youssef-4768b1251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achraf-youssef-4768b1251" height="30" width="40" /></a>
 </p>
-----
+
 <h3 align="left">Languages and Tools:</h3>
-----
+
 <h2 align="left">Languages:</h2>
-----
+
 <p align="center">  
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -106,7 +106,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
 </p>
-----
+
 <details>
   <summary>
     <h3> 🔥 Streak Stats</h3>
@@ -115,7 +115,7 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achraf-youssef&theme=tokyonight_duo" alt="achraf-youssef"/>
   </p>
 </details>
-----
+
 <details>
   <summary> <h3> ✨ Most Used Languages </h3>
   </summary>
@@ -123,12 +123,12 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=achraf-youssef&show_icons=true&locale=en&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="achraf-youssef" />
   </p>
 </details>
-----
+
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achraf-youssef&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="achraf-youssef" /></a> </p>
 </details>
 
-----
+
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 <p align="center">
 <picture>
