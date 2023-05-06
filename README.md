@@ -124,40 +124,50 @@
   </p>
 </details>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achraf-youssef&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="achraf-youssef" /></a> </p>
+<details>
+  <summary>
+    <h3> :trophy: Git profile Trophies </h3>
+  </summary>
+  <p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achraf-youssef&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="achraf-youssef" />
+    </a> 
+  </p>
 </details>
 
-
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-<p align="center">
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=achraf-youssef&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=achraf-youssef&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=achraf-youssef&show_icons=true" />
-</picture>
-</p>
+<details>
+  <summary>
+    <h3>💻 GitHub Profile Stats</h3>
+  </summary>
+  <p align="center">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=achraf-youssef&show_icons=true&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=achraf-youssef&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=achraf-youssef&show_icons=true" />
+    </picture>
+  </p>
 </details>
 
-----
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-<p align="center">
-<picture>
-<source
-  srcset="https://github-readme-activity-graph.cyclic.app/graph?username=achraf-youssef&theme=github"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-activity-graph.cyclic.app/graph?username=achraf-youssef"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=achraf-youssef" />
-</picture>
-</p>
+<details>
+  <summary>
+    <h3>⚡ Recent GitHub Activity</h3>
+  </summary>
+  <p align="center">
+    <picture>
+      <source
+        srcset="https://github-readme-activity-graph.cyclic.app/graph?username=achraf-youssef&theme=github"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-activity-graph.cyclic.app/graph?username=achraf-youssef"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=achraf-youssef" />
+    </picture>
+  </p>
 </details>
