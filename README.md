@@ -12,6 +12,7 @@
 - I am learning Rust for desktop development and systems programming.
 - I am still very interested in game development.
 - I am very interested in homelabbing and self-hosted infrastructure.
+- I use Arch Linux daily and love tweaking my setup.
 - I love learning how TUIs work and how to build them.
 - I enjoy building software that solves real problems.
 - I am currently looking for an internship opportunity this year.
@@ -122,7 +123,7 @@ I am currently doing homelab work and hosting multiple self-hosted services.
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="arch linux" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="bash" />
   <img src="https://img.shields.io/badge/Zsh-1A2C34?style=for-the-badge" alt="zsh" />
 </p>
