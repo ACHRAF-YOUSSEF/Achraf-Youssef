@@ -19,9 +19,9 @@
 
 ## What I Am Building
 
-- Discord clone (academic project)
-- Password manager mobile app (academic project)
-- Music mobile app (academic project)
+- Discord clone but for business called <a href="https://github.com/ACHRAF-YOUSSEF/bizcord" target="_blank">Bizcord</a>
+- Password manager mobile app called <a href="https://github.com/ACHRAF-YOUSSEF/vaultkeeper" target="_blank">VaultKeeper</a>
+- Music mobile app  called <a href="https://github.com/ACHRAF-YOUSSEF/serenade" target="_blank">Serenade</a>
 
 ## Homelab & Self-Hosting
 
