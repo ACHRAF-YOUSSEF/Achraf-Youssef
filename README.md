@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=achraf-youssef&label=Profile%20views&color=0e75b6&style=flat" alt="achraf-youssef" />
-  <img src="https://img.shields.io/badge/Looking%20for-Internship%202026-success" alt="internship" />
+  <img src="https://img.shields.io/badge/Looking%20for-PFE%20Internship%202027-success" alt="pfe-internship" />
 </p>
 
 ## About Me
