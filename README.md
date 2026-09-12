@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Achraf Youssef</h1>
-<h3 align="center">2nd Year Engineering Student at ISITCOM | Software Engineering & Computer Systems</h3>
+<h3 align="center">3nd Year Engineering Student at ISITCOM | Software Engineering & Computer Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=achraf-youssef&label=Profile%20views&color=0e75b6&style=flat" alt="achraf-youssef" />
@@ -30,23 +30,20 @@ I am currently doing homelab work and hosting multiple self-hosted services.
 ### Full Internal Stack
 
 - Media: Jellyfin
-- Arr stack: Sonarr, Radarr, Prowlarr, Bazarr
+- Arr stack: Sonarr, Radarr, Prowlarr, Bazarr, Homarr, Dispatcharr
 - Media automation: Tdarr, qBittorrent, TubeArchivist, MeTube
 - Network: AdGuard
-- Draw & docs: Excalidraw, Draw.io
-- AI: OpenWebUI (local LLM interface)
-- Cloud: Nextcloud
+- AI: OpenWebUI (local LLM interface), LM Studio
+- Cloud: Nextcloud AIO
 - Automation: n8n
 - Development: IT-Tools, StirlingPDF
 - Monitoring & Observability: Uptime Kuma
-- Infrastructure: Nginx Proxy Manager, Portainer
+- Infrastructure: Nginx Proxy Manager, Portracker
 
 ### Publicly Accessible Services
 
 - <a href="https://home.achrafyoussef.tech/" target="_blank">Homarr</a>
 - <a href="https://jellyfin.achrafyoussef.tech/" target="_blank">Jellyfin</a>
-- <a href="https://excalidraw.achrafyoussef.tech/" target="_blank">Excalidraw</a>
-- <a href="https://drawio.achrafyoussef.tech/" target="_blank">Draw.io</a>
 - <a href="https://n8n.achrafyoussef.tech/" target="_blank">n8n</a>
 - <a href="https://ai.achrafyoussef.tech/" target="_blank">OpenWebUI</a>
 - <a href="https://tools.achrafyoussef.tech/" target="_blank">IT-Tools</a>
@@ -158,14 +155,9 @@ I am currently doing homelab work and hosting multiple self-hosted services.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=achraf-youssef&show_icons=true&theme=tokyonight" alt="achraf-youssef" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=achraf-youssef&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="achraf-youssef" />
+  <img src="https://github-stats-extended.vercel.app/api?username=achraf-youssef&show_icons=true&theme=tokyonight" alt="achraf-youssef" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=achraf-youssef&layout=compact&theme=tokyonight" alt="achraf-youssef" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=achraf-youssef&theme=github-compact" alt="achraf-youssef" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=achraf-youssef&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="achraf-youssef" />
 </p>
