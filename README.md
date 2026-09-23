@@ -30,7 +30,7 @@ I am currently doing homelab work and hosting multiple self-hosted services.
 ### Full Internal Stack
 
 - Media: Jellyfin
-- Arr stack: Sonarr, Radarr, Prowlarr, Bazarr, Homarr, Dispatcharr
+- Arr stack: Sonarr, Radarr, Prowlarr, Bazarr, Glance, Dispatcharr
 - Media automation: Tdarr, qBittorrent, TubeArchivist, MeTube
 - Network: AdGuard
 - AI: OpenWebUI (local LLM interface), LM Studio
@@ -42,7 +42,6 @@ I am currently doing homelab work and hosting multiple self-hosted services.
 
 ### Publicly Accessible Services
 
-- <a href="https://home.achrafyoussef.tech/" target="_blank">Homarr</a>
 - <a href="https://jellyfin.achrafyoussef.tech/" target="_blank">Jellyfin</a>
 - <a href="https://n8n.achrafyoussef.tech/" target="_blank">n8n</a>
 - <a href="https://ai.achrafyoussef.tech/" target="_blank">OpenWebUI</a>
