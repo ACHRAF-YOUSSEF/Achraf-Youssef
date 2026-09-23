@@ -30,14 +30,14 @@ I am currently doing homelab work and hosting multiple self-hosted services.
 ### Full Internal Stack
 
 - Media: Jellyfin
-- Arr stack: Sonarr, Radarr, Prowlarr, Bazarr, Glance, Dispatcharr
+- Arr stack: Sonarr, Radarr, Prowlarr, Bazarr, Dispatcharr
 - Media automation: Tdarr, qBittorrent, TubeArchivist, MeTube
 - Network: AdGuard
 - AI: OpenWebUI (local LLM interface), LM Studio
 - Cloud: Nextcloud AIO
 - Automation: n8n
 - Development: IT-Tools, StirlingPDF
-- Monitoring & Observability: Uptime Kuma
+- Monitoring & Observability: Glance, Uptime Kuma
 - Infrastructure: Nginx Proxy Manager, Portracker
 
 ### Publicly Accessible Services
